@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+h2{
+    text-align: center;
+    margin: 50px 0;
+}
+
+.col-sm-5{
+    padding: 50px;
+}
+
+.col-sm-7{
+    padding: 50px;
+}
+
+li:nth-child(odd) { background: #ffffff; }
+li:nth-child(even) { background: #80808030; }
+
+.list{
+    border: 1px solid #000000;
+}
+li{
+    list-style: none;
+    padding: 0 30px;
+}
+
+.id{
+    margin-top: 20px;
+}
+
+.active {
+    color: blue;
+}
